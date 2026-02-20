@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/EDA-FF6B6B?style=for-the-badge&logoColor=white" alt="EDA"/>
-  <img src="https://img.shields.io/badge/Data%20Table-4A90E2?style=for-the-badge&logoColor=white" alt="Data Table"/>alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Data%20Table-4A90E2?style=for-the-badge&logoColor=white" alt="Data Table"/>
 </p>
 
 ### Tools & Technologies
